@@ -32,10 +32,9 @@ MISSION STATUS
 
 Name      : Peter Tran
 Location  : Chicago, Illinois 🇺🇸
-Origin    : Vietnam 🇻🇳
 
 Major     : Computer Information Systems
-School    : Saint Louis University
+School    : 
 
 Focus
 ──────────────────────────────
@@ -55,9 +54,7 @@ JavaScript
 SQL
 
 Human
-English 🇺🇸
-Vietnamese 🇻🇳
-Spanish 🇪🇸 (Learning)
+
 
 Current Mission
 ──────────────────────────────
@@ -67,6 +64,7 @@ Current Mission
 ▸ Learn Spanish
 ▸ Explore Europe
 ▸ Learn Aerospace
+
 
 Status
 ──────────────────────────────
@@ -154,9 +152,6 @@ Status
 # 🌍 Current Journey
 
 ```text
-Vietnam 🇻🇳
-      │
-      ▼
 Chicago 🇺🇸
       │
       ▼
